@@ -3,3 +3,4 @@ class Main1:
         if self.v == 1:
             r = self.q1 + self.q2
             print (r)
+#Создаем класс Plus и реализуем функцию сложения
