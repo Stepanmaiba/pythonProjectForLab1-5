@@ -27,3 +27,4 @@ myclass.condition()
 myclass.condition2()
 myclass.condition3()
 myclass.condition4()
+#Создаем класс для реализации всех функций
