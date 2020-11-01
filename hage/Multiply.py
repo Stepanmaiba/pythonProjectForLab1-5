@@ -3,3 +3,4 @@ class Main4:
         if self.v == 4:
             r3 = self.q1 * self.q2
             print(r3)
+#Создаем класс Multiply и реализуем функцию умножения
