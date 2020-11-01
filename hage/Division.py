@@ -3,3 +3,4 @@ class Main3:
         if self.v == 3:
             r2 = self.q1 / self.q2
             print(r2)
+#Создаем класс Division и реализуем функцию деления
