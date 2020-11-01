@@ -17,8 +17,7 @@ class Main(Main1,Main2,Main3,Main4):
     def show(self):
         vvod = (self.q1 + self.q2 + self.v)
         print(vvod)
-
-
+#Реализуем ввод/вывод, делаем импорт и собираем все воедино
 myclass = Main(int (input('Введите число 1: ')),
                int (input('Введите число 2: ')),
                int(input('Какую операцию вы хотите выполнить? \n 1 Сложение \n 2 Вычитание \n 3 Деление \n 4 Умножение \n')))
