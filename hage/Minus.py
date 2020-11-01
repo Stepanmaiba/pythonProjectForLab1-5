@@ -3,3 +3,4 @@ class Main2:
         if self.v == 2:
             r1 = self.q1 - self.q2
             print(r1)
+#Создаем класс Minus и реализуем функцию вычитания
